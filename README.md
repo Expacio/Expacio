@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">keyboard smasher</h3>
+<h3 align="center">hiding under my private repos</h3>
 
 ---
 
@@ -8,7 +8,6 @@
 ## CONNECT WITH ME:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/489750111094702110) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshay.xy7) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshay.mishra2228@gmail.com) 
 
 ---
 
