@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">keyboard smasher *_*</h3>
+<h3 align="center">keyboard smasher</h3>
 
 ---
 
