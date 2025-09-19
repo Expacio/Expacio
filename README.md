@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">hiding under my private repos</h3>
+<h3 align="center">Hiding under my private repos</h3>
 
 ---
 
 <div align="center">
 
-## CONNECT WITH ME:
+## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/489750111094702110) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshay.xy7) 
 
 ---
 
-## 💻 Tools & Skills:
+## 💻 Tools & Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -34,12 +34,15 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-I've modded game servers and deployed them on AWS-EC2 instances. I have good Python knowledge with Flask/FastAPI experience.
-I've previously created a heavy duty Discord Bot monitoring server insights and joingates, all just for a small community I had back in 2022.
+<p align="center">
+I’ve modified and hosted game servers on AWS EC2.<br/>
+I have strong Python skills with Flask and FastAPI experience.<br/>
+Previously, I built a large-scale Discord bot that monitored server insights and managed join-gates for a small community in 2022.
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Expacio&theme=dark&hide_border=false)<br/>
 
 ---
