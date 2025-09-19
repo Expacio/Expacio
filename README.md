@@ -35,7 +35,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 <p align="center">
-I’ve modded and hosted [game servers](https://play.google.com/store/apps/details?id=net.froemling.bombsquad&hl=en_IN&pli=1) on AWS EC2.<br/>
+I’ve modded and hosted <a href="https://play.google.com/store/apps/details?id=net.froemling.bombsquad&hl=en_IN&pli=1" target="_blank">game servers</a> on AWS EC2.<br/>
 I have strong Python skills with Flask and FastAPI experience.<br/>
 Previously, I built a large-scale Discord bot that monitored server insights and managed join-gates for a small Discord community in 2022.
 </p>
