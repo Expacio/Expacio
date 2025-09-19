@@ -22,6 +22,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -29,8 +30,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 <p align="center">
-I’ve modded and hosted <a href="https://play.google.com/store/apps/details?id=net.froemling.bombsquad&hl=en_IN&pli=1" target="_blank">game servers</a> on AWS EC2.<br/>
-I have strong Python skills with Flask and FastAPI experience.<br/>
+I’ve modded and hosted game servers for the game <a href="https://play.google.com/store/apps/details?id=net.froemling.bombsquad&hl=en_IN&pli=1" target="_blank">BombSquad</a> on AWS EC2 instances.<br/>
+I have Python skills with Flask and FastAPI experience.<br/>
 Previously, I built a large-scale Discord bot that monitored server insights and managed join-gates for a small Discord community in 2022.
 </p>
 
