@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">A student from Ghaziabad</h3>
+<h3 align="center">keyboard smasher *_*</h3>
 
 ---
 
 <div align="center">
 
-## 🌐 Socials:
+## CONNECT WITH ME:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/489750111094702110) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshay.xy7) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshay.mishra2228@gmail.com) 
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tools & Skills:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
