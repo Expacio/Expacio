@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi 👋, I'm Akshay
-# Hiding under my private repos
+### Hi 👋, I'm Akshay
+### Hiding under my private repos
 
 ---
 
