@@ -3,7 +3,7 @@
 
 ---
 
-<div align="center">
+
 
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/489750111094702110) 
@@ -29,7 +29,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-<p align="center">
+<p>
 I’ve modded and hosted game servers for the game <a href="https://play.google.com/store/apps/details?id=net.froemling.bombsquad&hl=en_IN&pli=1" target="_blank">BombSquad</a> on AWS EC2 instances.<br/>
 I have Python skills with Flask and FastAPI experience.<br/>
 Previously, I built a large-scale Discord bot that monitored server insights and managed join-gates for a small Discord community in 2022.
