@@ -4,7 +4,9 @@
 ---
 
 ## 📊 GitHub Stats
-<center>![](https://nirzak-streak-stats.vercel.app/?user=Expacio&theme=dark&hide_border=false)<br/></center>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Expacio&theme=dark&hide_border=false" />
+</p>
 
 ---
 ---
