@@ -3,6 +3,12 @@
 
 ---
 
+## 📊 GitHub Stats
+![](https://nirzak-streak-stats.vercel.app/?user=Expacio&theme=dark&hide_border=false)<br/>
+
+---
+---
+
 
 
 ## 🌐 Connect with Me
@@ -52,12 +58,6 @@ I have Python skills with Flask and FastAPI experience.<br/>
 Previously, I built a large-scale Discord bot that monitored server insights and managed join-gates for a small Discord community in 2022.
 </p>
 
----
-
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=Expacio&theme=dark&hide_border=false)<br/>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Expacio&icon=0&color=0)](https://visitcount.itsvg.in)
 
