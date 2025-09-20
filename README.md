@@ -3,18 +3,18 @@
 ### Hi 👋, I'm Akshay
 ### Hiding under my private repos
 
----
+
 
 ### 📊 GitHub Stats
 <img src="https://nirzak-streak-stats.vercel.app/?user=Expacio&theme=dark&hide_border=false" />
 
----
+
 
 ### 🌐 Connect with Me
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akshay.xy7)
 
----
+
 
 ### 💻 Tools & Skills
 
@@ -47,7 +47,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
 
 
 _**I’ve modded and hosted game servers for the game <a href="https://play.google.com/store/apps/details?id=net.froemling.bombsquad&hl=en_IN&pli=1" target="_blank">BombSquad</a> on AWS EC2 instances.<br/>
