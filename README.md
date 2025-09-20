@@ -6,7 +6,7 @@
 
 
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/489750111094702110) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshay.xy7) 
 
 ---
@@ -55,7 +55,7 @@ Previously, I built a large-scale Discord bot that monitored server insights and
 ---
 
 ## 📊 GitHub Stats
-![]([https://nirzak-streak-stats.vercel.app/?user=Expacio&theme=dark&hide_border=false](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white))<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Expacio&theme=dark&hide_border=false)<br/>
 
 ---
 
