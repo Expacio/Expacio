@@ -5,18 +5,18 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <img src="https://nirzak-streak-stats.vercel.app/?user=Expacio&theme=dark&hide_border=false" />
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akshay.xy7)
 
 ---
 
-## 💻 Tools & Skills
+### 💻 Tools & Skills
 
 ### Languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
