@@ -52,7 +52,7 @@
 
 _**I’ve modded and hosted game servers for the game <a href="https://play.google.com/store/apps/details?id=net.froemling.bombsquad&hl=en_IN&pli=1" target="_blank">BombSquad</a> on AWS EC2 instances.<br/>
 I have Python skills with Flask and FastAPI experience.<br/>
-Previously, I built a large-scale Discord bot that monitored server insights and managed join-gates for a small Discord community in 2022.**
+Previously, I built a large-scale Discord bot that monitored server insights and managed join-gates for a small Discord community in 2022.**_
 
 
 [![](https://visitcount.itsvg.in/api?id=Expacio&icon=0&color=0)](https://visitcount.itsvg.in)
