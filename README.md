@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">Hiding under my private repos</h3>
+#Hi 👋, I'm Akshay
+#Hiding under my private repos
 
 ---
 
