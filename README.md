@@ -11,9 +11,7 @@
 ### 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/489750111094702110)   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/y7.akshay)
 
-### 💻 Tools & Skills
 
----
 
 ## 💻 Technical Skills
 
